@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Inte18</string>
+    <string name="date">
+        Date : 29th Sept,2018
+
+        Time : 9.00am to 3.00pm
+
+        Venue : SVCE, Sriperumbudur
+
+        Participants can use the SVCE buses for transportation.
+
+    </string>
+    <string name="desc">
+        At SVCE, we define Interrupt simply as THE place to be for anyone with a passion for Computer Science. A national level technical Computer Science Symposium held every year, Interrupt is organised by the Association of Computer Engineers, Department of Computer Science and Engineering, SVCE.
+Interrupt has had students marking their calendars for years now and this year it’s back and bigger than ever!
+    </string>
+</resources>
